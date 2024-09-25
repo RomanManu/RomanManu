@@ -2,7 +2,7 @@
 
 _Meu nome é: Manuela Roman de Sá_
 
-_Estou estudando na Alura Start_
+_Estou estudando na [Alura](https://www.alura.com.br)_
 
 _Estou me desenvolvendo na Linguagem JavaScript_ 
 
